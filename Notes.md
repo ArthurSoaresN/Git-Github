@@ -68,4 +68,4 @@ if num % 2 == 0:
 
 ### Imagens
 
-![Linux Icon] ([link da imagem](https://github.com/user-attachments/assets/44eab303-2676-4c26-88c6-408604b99141))
+![Linux Icon](https://github.com/user-attachments/assets/44eab303-2676-4c26-88c6-408604b99141)
