@@ -14,10 +14,15 @@
 ### Branch
 
 Master: Versão Corrente
+
 Origin: Repositorio remoto
+
 Commit: Salvar alteração na maquina local
+
 Push: Salvar as alterações na origin
+
 Merge: Lançar fecture da branch no ramo principal
+
 
 
 ### Guia Linguagem Markdown
