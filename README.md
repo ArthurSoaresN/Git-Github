@@ -1,3 +1,3 @@
 # Git-Github
 
-Class Notes
+Class Notes do curso de Git e Github
